@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f55b3d67-c335-481d-9c46-b57fd2109dbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LockRT/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LockRT/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptionalRT/MsgEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptionalRT/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptionalRT/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptionalRT/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OptionalRT/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaceRT/JDK8Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaceRT/JDK8InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaceRT/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaceRT/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaRT/MyFunInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaRT/MyfuncationalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaRT/OldService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdaRT/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/MessInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/MessInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/MessInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/MessInterface4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/MsgEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/referenceRT/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamRT/UserEntity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RpdY6uQHMxPK3eyIHwiNGxM9Yd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OptionalRT" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeadLock">
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LockRT.DeadLock" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LockRT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalRT.Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionalRT.Test02" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OptionalRT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalRT.Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionalRT.Test03" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OptionalRT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionalRT.Test04" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OptionalRT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LockRT.ThreadTest" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LockRT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.Test04" />
+        <item itemvalue="Application.OptionalRT.Test03" />
+        <item itemvalue="Application.OptionalRT.Test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f55b3d67-c335-481d-9c46-b57fd2109dbd" name="Changes" comment="" />
+      <created>1687951001344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687951001344</updated>
+      <workItem from="1687951002369" duration="3000" />
+      <workItem from="1687970855386" duration="43814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
